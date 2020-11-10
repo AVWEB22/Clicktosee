@@ -1,3 +1,6 @@
+“title: Welcome to the Angel's homepage!” 
+“description: This is the site where I make changes!” 
+
 ## Welcome to GitHub Pages
 //I will edit this l8ter! :)
 
@@ -29,7 +32,7 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Just a name Theme
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vinalesa/Clicktosee/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
