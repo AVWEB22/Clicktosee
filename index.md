@@ -1,8 +1,7 @@
-“title: Welcome to the Angel's homepage!” 
-“description: This is the site where I make changes!” 
+##  Welcome to the Angel's homepage! <br><br>
+##  This is where i make changes. ##
+###  Thank You!<br>
 
-## Welcome to GitHub Pages
-//I will edit this l8ter! :)
 
 You can use the [editor on GitHub](https://github.com/vinalesa/Clicktosee/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -15,9 +14,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+
 
 - Bulleted
 - List
